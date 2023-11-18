@@ -2,13 +2,14 @@
 
 # ReciteRays - Aplikasi Mobile Doa dan Murottal
 
-![ReciteRays Logo](link_ke_logo_anda)
+![quran_icon](https://github.com/yusmnn/reciterays/assets/76932249/0f3c9ba3-4a10-40d1-88ce-05a762a14bd8)
 
-## Deskripsi
+
+## ✨ Deskripsi
 
 ReciteRays adalah aplikasi mobile yang dirancang untuk memudahkan pengguna dalam membaca doa-doa harian dan mendengarkan murottal surah yang disampaikan dengan indah oleh Syaikh Misyari Rasyid Al-'Afasi. Aplikasi ini membawa pengalaman spiritual melalui penggabungan doa-doa yang bermanfaat dan bacaan murottal yang mendalam.
 
-## Fitur Utama
+## 💙 Fitur Utama
 
 - **Baca Doa-Doa Harian:**
   Akses mudah ke koleksi doa-doa harian untuk berbagai keperluan, memberikan pengguna sarana untuk meningkatkan koneksi spiritual sehari-hari.
@@ -19,7 +20,7 @@ ReciteRays adalah aplikasi mobile yang dirancang untuk memudahkan pengguna dalam
 - **Navigasi User-Friendly:**
   Antarmuka yang ramah pengguna memastikan pengalaman yang mulus dan mudah digunakan bagi pengguna baru maupun yang berpengalaman.
 
-## Persyaratan Sistem
+## 💫 Persyaratan Sistem
 
 - Perangkat Android atau iOS.
 - Koneksi internet untuk mendengarkan murottal secara langsung (opsional untuk penyimpanan offline).
