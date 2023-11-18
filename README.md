@@ -24,3 +24,13 @@ ReciteRays adalah aplikasi mobile yang dirancang untuk memudahkan pengguna dalam
 
 - Perangkat Android atau iOS.
 - Koneksi internet untuk mendengarkan murottal secara langsung (opsional untuk penyimpanan offline).
+
+## 🤖 Developed By
+
+[![Yusman](https://img.shields.io/badge/Yusman-Profile-blue?style=flat-square&logo=github)](https://github.com/yusmnn)
+
+
+[![Verdiansyah S Bandoe](https://img.shields.io/badge/Verdiansyah_S_Bandoe-Profile-blue?style=flat-square&logo=github)](https://github.com/Rhlverdi)
+
+
+[![M Nur Ichsan In](https://img.shields.io/badge/M_Nur_Ichsan_In-Profile-blue?style=flat-square&logo=github)](https://github.com/nurzan1026)
